@@ -2,6 +2,9 @@
 This is a MATLAB implementation code for the paper "Efficient Contrast Enhancement Using Adaptive Gamma Correction With Weighting Distribution" at: https://ieeexplore.ieee.org/abstract/document/6336819/.
 This method enhances the contrast of images
 
+# Mathworks Link
+This work has a citation from Mathworks on this website.
+on savoir plus, clique [ici](https://www.mathworks.com/matlabcentral/fileexchange/67891-efficient-contrast-enhancement-using-adaptive-gamma-correction-with-weighting-distribution)
 
  Inputs:
           
